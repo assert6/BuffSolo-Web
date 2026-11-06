@@ -1,0 +1,13 @@
+{
+  "editor": "4.7.2.stable.official.ed1daf0bf",
+  "platform": "web",
+  "mode": "release",
+  "visual_styles": [
+    "fresh_adventure"
+  ],
+  "threads": false,
+  "debug_tools_enabled": false,
+  "pack_checks_passed": true,
+  "browser_runtime_verified": false,
+  "total_bytes": 76979423
+}
